@@ -1,0 +1,4 @@
+HandleVideoSequenceProc exception: NvDecoder::HandleVideoSequence : cuvidGetDecoderCaps(&decodecaps) returned error 999 at D:\MyAIproject\NewUniTraffice_v4\4_VDS\Library\NvDecDll\NvCodec\NvDecoder\NvDecoder.cpp:165
+
+HandleVideoSequenceProc exception: NvDecoder::HandleVideoSequence : cuvidGetDecoderCaps(&decodecaps) returned error 999 at D:\MyAIproject\NewUniTraffice_v4\4_VDS\Library\NvDecDll\NvCodec\NvDecoder\NvDecoder.cpp:165
+
